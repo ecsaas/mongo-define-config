@@ -21,9 +21,9 @@ const STORE_REGION = "storeRegion"
 const STORE_COUNTRY = "storeCountry"
 
 const API_VERSION = "apiVersion"
-const MYSQL_USER = "mysqlUser"
-const MYSQL_PASSWORD = "mysqlPassword"
-const MYSQL_IP = "mysqlIp"
+// const MYSQL_USER = "mysqlUser"
+// const MYSQL_PASSWORD = "mysqlPassword"
+// const MYSQL_IP = "mysqlIp"
 const MYSQL_DB_NAME = "mysqlDbName"
 
 const STORE_STATUS = "storeStatus"
