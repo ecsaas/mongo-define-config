@@ -3,6 +3,7 @@ package SHOP_CONFIG
 const ACCOUNT = "account"
 const SHOP = "shop"
 const SHOP_DOMAIN = "shopDomain"
+const SHOP_PAGE = "shopPage"
 const DOMAIN = "domain"
 const SHOP_PRIVATE = "shopPrivate"
 const GOOGLE_USER = "googleUser"
